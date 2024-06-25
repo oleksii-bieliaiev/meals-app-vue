@@ -12,7 +12,6 @@
       {{ letter }}
     </router-link>
   </div>
-
   <Meals :meals="meals" />
 </template>
 
