@@ -10,7 +10,7 @@ import Ingredients from '../views/Ingredients.vue';
 
 const routes = [
   {
-    path: '/',
+    path: '/meals-app-vue/',
     component: DefaultLayout,
     children: [
       {
@@ -53,7 +53,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/meals-app-vue/'),
   routes
 })
 
