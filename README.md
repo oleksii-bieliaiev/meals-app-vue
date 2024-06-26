@@ -1,6 +1,8 @@
 # Vue 3 + Vite
 
 Meals App
+
+
 The Meals App is a web application designed to help users explore a wide variety of meals and recipes. With an intuitive and user-friendly interface, the app allows users to search for meals by name, ingredient, or letter, providing detailed information about each meal, including ingredients, instructions, and even related YouTube videos for better understanding.
 
 Features:
